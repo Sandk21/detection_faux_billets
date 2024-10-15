@@ -2,6 +2,10 @@
 
 # Détection automatique de faux billets
 
+[Lien vers l'application finalisée](https://detectionfauxbillets-eerqtpxtxetqwjdsg6l7jy.streamlit.app/)
+
+Des fichiers csv sont mis à disposition dans ce [dossier](detection_faux_billets/tree/main/data).
+
 ## Contexte du projet
 L'**Organisation Nationale de Lutte contre le Faux-Monnayage (ONCFM)**, organisme public, a pour mission de développer des méthodes avancées d’**identification des contrefaçons de billets** en euros.
 
